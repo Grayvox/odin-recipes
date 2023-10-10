@@ -25,3 +25,14 @@ h3 {
 p, ul, ol, li {
     background-color: gainsboro;
 }
+
+.alignCenter {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainHeader {
+    width: 50%;
+}
