@@ -1,12 +1,16 @@
-* {
+/* Fonts */
+.fonts {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-a {
+/* Text Settings */
+.clickOn {
     text-decoration: none;
 }
 
-a:hover {
+/* Colors */
+
+.clickOn a:hover {
     background-color: aquamarine;
 }
 
@@ -25,6 +29,8 @@ h3 {
 p, ul, ol, li {
     background-color: gainsboro;
 }
+
+/* Alignment and sizing */
 
 .alignCenter {
     text-align: center;
