@@ -4,30 +4,32 @@
 }
 
 /* Text Settings */
-.clickOn {
+.clickOn a {
     text-decoration: none;
 }
 
 /* Colors */
 
+.bodyColor {
+    background-color: #0E2954;
+}
+
 .clickOn a:hover {
     background-color: aquamarine;
 }
 
-h1 {
-    background-color: greenyellow;
+.textColor1 {
+    background-color: #1F6E8C;
+    color: white;
 }
 
-h2 {
-    background-color: rgb(27, 202, 27);
+.textColor2 {
+    background-color: #2E8A99;
+    color: white;
 }
 
-h3 {
-    background-color: rgb(164, 252, 164);
-}
-
-p, ul, ol, li {
-    background-color: gainsboro;
+.stdTextColor{
+    background-color: #84A7A1;
 }
 
 /* Alignment and sizing */
