@@ -8,6 +8,10 @@
     text-decoration: none;
 }
 
+.clickOn a:hover {
+    text-decoration: underline;
+}
+
 /* Colors */
 
 .bodyColor {
