@@ -18,10 +18,6 @@
     background-color: #0E2954;
 }
 
-.clickOn a:hover {
-    background-color: aquamarine;
-}
-
 .textColor1 {
     background-color: #1F6E8C;
     color: white;
@@ -58,6 +54,20 @@
     padding: 5px;
 }
 
-li.clickOn {
+div.recipeCards li {
     padding: 3px;
+}
+
+div.recipeCards h1, h2, h3, p, ul, ol, a {
+    padding: 10px 40px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.originalRecipe:hover {
+    background-color: #2E8A99;
+}
+
+.recipeImg {
+    margin-left: 25px;
 }
