@@ -46,3 +46,9 @@
     padding: 10px;
     border-radius: 50px;
 }
+
+.recipeList {
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
