@@ -29,7 +29,7 @@
 }
 
 .stdTextColor{
-    background-color: #84A7A1;
+    background-color: #54a7b4;
 }
 
 /* Alignment and sizing */
@@ -43,4 +43,6 @@
 
 .mainHeader {
     width: 50%;
+    padding: 10px;
+    border-radius: 50px;
 }
